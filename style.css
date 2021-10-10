@@ -1,0 +1,102 @@
+*{margin: 0;
+padding: 0;
+
+}
+body{
+    background: rgb(94, 82, 82);: gray;
+    font-family: 'Roboto', sans-serif;
+}
+.conteineer{
+    max-width: 80%;
+    /* height: 1100px; */
+    background-color: hotpink;
+    margin: 0 auto;
+    padding: 10px;
+}
+header{
+
+}
+.logo{
+    width: 80px;
+    height: 110px;
+    border-radius: 50%;
+    float: left;
+}
+.name{
+    float: left;
+    padding: 20px;
+}
+.info{
+    float: right;
+    padding: 20px;
+}
+.info p a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.info p a:hover{
+    background-color: green;
+    color: white;
+}
+.div-clear{
+    clear: both;
+}
+h1,h2,h3,h4,h5{
+    color: white;
+}
+hr{
+    width: 100%;
+    border: solid black 2px;
+    /* margin: 20px auto; */
+    margin-top: 20px;
+    border-top: none;
+}
+.personal-info{
+
+}
+.content{
+  margin-bottom: 30px;
+}
+.left-div{
+    width: 30%;
+   float: left;
+}
+.right-div{
+    width: 70%;
+   float: left;
+}
+.common-hr{
+    width: 100%;
+    border: gray solid 1px;
+    margin: top 20px auto ;
+}
+.left-div2{
+    width: 30%;
+   float: left;
+}
+.right-div2{
+    width: 32%;
+   float: left;
+}
+.right-div3{
+    width: 35%;
+   float: right;
+   margin-left: 5px;
+}
+.foot-container{
+    background-color: black;
+    height: 50px;
+    text-align: center;
+    padding: 20px;
+}
+.foot-container a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+.foot-container p{
+    
+    color: white;
+    padding: 20px;
+}
